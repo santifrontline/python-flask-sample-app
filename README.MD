@@ -1,4 +1,4 @@
-## Flaskr an example application written in Python/Flask (salvando un commit for testing)
+## Flaskr an example application written in Python/Flask 
 
 ![Flask plus Codefresh](docker-flask-codefresh.jpg)
 
